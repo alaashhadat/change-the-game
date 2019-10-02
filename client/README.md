@@ -1,0 +1,1 @@
+This landing page is  built using React as front end framework and bootstrap library and material-ui for styling and CSS.
